@@ -27,7 +27,7 @@ flutter_lints: ^2.0.0
     http: 1.0.0
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot.jpeg)
+![Screenshot 1](screenshot/screenshot.jpeg)
 
 
 ## Prerequisites
